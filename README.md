@@ -1,2 +1,4 @@
-# Real-Estate-Website
+# Real-Estate-Website-Practice
 designed and programmed website in Angular
+
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
